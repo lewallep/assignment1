@@ -7,3 +7,4 @@ I have only started programming with ernest after I decided to re-enter the fiel
 
 My favorite program so far was the Traveling Salesman Problem.  It was the first "real" problem solved which I was a part of.  It was also very fun to work on a problem which had multiple versions each improving on the previous.  
 
+This is the last step in my assignment 1 submission.  This is the entry in the alternate-bio branch.
